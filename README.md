@@ -9,7 +9,8 @@ This repo contains a single function, `greet`, and a test for it.
 ## Usage
 
 ```bash
-node greet.js
+node greet.js        # -> Hello, world!
+node greet.js Claude # -> Hello, Claude!
 ```
 
 ## Running tests
